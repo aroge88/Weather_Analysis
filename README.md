@@ -1,5 +1,12 @@
 # Weather_Analysis
 
+# Context:
+In this analysis, I utilized two individual Pandas files to analyze the weather data. In the first part, I performed Exploratory Data Analysis (EDA), where I implemented code to examine the column names, visualize distributions, compute statistical results, summarize the data, identify null values, and generate value counts. This allowed me to gain an initial understanding of the dataset and explore its basic characteristics.
+
+For the second part of the analysis, I formulated specific questions to delve deeper into the datasets and extract more meaningful insights. By addressing these questions, I aimed to uncover patterns, relationships, and trends within the data. This involved performing additional calculations, aggregations, and comparisons to derive valuable information from the weather dataset.
+
+By employing these two distinct approaches, I was able to conduct a comprehensive analysis of the weather data. The EDA phase provided an initial overview of the dataset, while the subsequent question-based analysis allowed for a more focused exploration, enabling me to extract more detailed insights and draw meaningful conclusions.
+
 # EDA
 
 Temperature (Temp_C):
